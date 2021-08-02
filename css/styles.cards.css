@@ -63,8 +63,6 @@
   z-index: 1;
 }
 
-.card__arc path {
-}       
 
 .card:hover .card__header {
   transform: translateY(0);
